@@ -1,0 +1,6 @@
+{
+  "name": "RISKORA",
+  "description": "Agentic AI Inventory Replenishment System for e-commerce businesses. Predict. Reason. Act. Replenish.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
